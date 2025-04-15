@@ -107,4 +107,4 @@ Summarized findings and next steps in a professional case study format
 
 ## Visualization
 
-View visualization here: https://public.tableau.com/shared/8ZHX6PM8Q?:display_count=n&:origin=viz_share_link
+View visualization here:https://public.tableau.com/views/NewyorkCitiBike_17440767955320/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
